@@ -1,0 +1,9 @@
+
+
+body {
+    background-image:url("../images/back.jpg") ;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
