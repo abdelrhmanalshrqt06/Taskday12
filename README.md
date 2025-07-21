@@ -24,20 +24,16 @@ This is a simple Book Management System implemented entirely using vanilla JavaS
 <br>
 
 ## File Structure
-day12p/
-│
-├── README.md
-<br>
-├── index.html
-<br>
-├── images/
-│ └── back.jpg
-<br>
-├── css/
-│ └── style.css
-<br>
-└── js/
-└── script.js
+day12p/<br>
+├── README.md<br>
+├── index.html<br>
+├── images/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── back.jpg<br>
+├── css/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── style.css<br>
+└── js/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── script.js
+
 
 <br>
 
