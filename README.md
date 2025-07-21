@@ -27,11 +27,15 @@ This is a simple Book Management System implemented entirely using vanilla JavaS
 day12p/
 │
 ├── README.md
+<br>
 ├── index.html
+<br>
 ├── images/
 │ └── back.jpg
+<br>
 ├── css/
 │ └── style.css
+<br>
 └── js/
 └── script.js
 
